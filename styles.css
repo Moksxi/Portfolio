@@ -1,0 +1,67 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000000;
+  }
+  
+  .navbar {
+    background-color: #333 !important;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .nav-link {
+    color: #fff !important;
+    margin-left: 20px;
+  }
+  
+  .hero {
+    background-color: #f19f51;
+    padding: 100px 0;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .hero h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  
+  .hero .btn-primary {
+    background-color: #3d3b3b;
+    border-color: #000000;
+    padding: 12px 30px;
+    font-size: 16px;
+  }
+  
+  .hero .btn-primary:hover {
+    background-color: #e64a41;
+    border-color: #e64a41;
+  }
+  
+  .hero img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  }
+  
+  footer {
+    color: #fff;
+  }
+  
+  footer a {
+    color: #fff;
+    font-size: 20px;
+  }
